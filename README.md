@@ -93,7 +93,8 @@ Embedded photo(s)
 Table(s)
 List(s)
 GitHub
-Your team must use a shared GitHub repository to develop your submission. 
+Your team must use a shared GitHub repository to develop your submission.
+Hi from Tristan Mejia
 
 Use a public GitHub repository and share the link in your submission.
 Each student must have at least 4 commits.  
