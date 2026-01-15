@@ -19,6 +19,7 @@
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
+
 **SDLC:** XXXX
 **Justification:** XX why was it a good fit? XX
 **Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
@@ -44,9 +45,13 @@
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
+
 **SDLC:** XXXX
+
 **Justification:** XX why was it a good fit? XX
+
 **Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+
 **Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
 
 
@@ -71,9 +76,13 @@
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
+
 **SDLC:** XXXX
+
 **Justification:** XX why was it a good fit? XX
+
 **Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+
 **Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
 
 
@@ -82,6 +91,11 @@
 
 ## 4: Department of Transportation
 
+> Your company is developing a distributed application (A distributed system is a computing environment in which various components are spread across multiple devices on a network) storing data on the cloud.
+>- 100 pages of detailed specifications from the D.O.T.
+>- You and your team have an abundance of experience in developing similar solutions prior
+>- Conditions: 18 month deadline and only a team of 10 software engineers
+
 ### Individual Selections
 
 |**Name**          | **SDLC Choice** |
@@ -92,9 +106,13 @@
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
+
 **SDLC:** XXXX
+
 **Justification:** XX why was it a good fit? XX
+
 **Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+
 **Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
 
 
@@ -103,6 +121,12 @@
 
 ## 5: Reducing Traffic
 
+> Your company is building a distributed traffic system using GPS, sensors, cameras, and digital billboards.
+>- Tracks individual cars and overall traffic conditions
+>- Provides real-time updates to transportation officials and drivers
+>- Team has strong C++ embedded systems experience
+>- Large-scale, real-time, reliability-critical system
+
 ### Individual Selections
 
 |**Name**          | **SDLC Choice** |
@@ -113,9 +137,13 @@
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
+
 **SDLC:** XXXX
+
 **Justification:** XX why was it a good fit? XX
+
 **Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+
 **Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
 
 
@@ -126,6 +154,12 @@
 
 ### Individual Selections
 
+> Your team is developing educational games with changing requirements and fast delivery needs.
+>- Small team of 7 experienced game developers
+>- Requirements evolve quickly
+>- Customers need early versions for testing
+>- Close communication with educators and stakeholders
+
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
 | *Samantha Wang*  |                 |
@@ -134,15 +168,25 @@
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
+
 **SDLC:** XXXX
+
 **Justification:** XX why was it a good fit? XX
+
 **Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+
 **Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
 
 
 ---
 
 ## 7: Global Health
+
+>Your startup is creating software to improve health outcomes in developing countries.
+>- Team of 5 people total
+>- 2–3 experienced developers at the start
+>- More hiring needed during development
+>- Funding depends on demonstrated real-world impact
 
 ### Individual Selections
 
@@ -154,9 +198,13 @@
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
+
 **SDLC:** XXXX
+
 **Justification:** XX why was it a good fit? XX
+
 **Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+
 **Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
 
 
