@@ -100,7 +100,7 @@
 
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
-| *Samantha Wang*  |                 |
+| *Samantha Wang*  |Since all of the specifications are detailed and clearly established, a Waterfall method would be best used for this context. The team’s proven experience and set schedule align well with a structured approach.|
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
@@ -131,7 +131,7 @@
 
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
-| *Samantha Wang*  |                 |
+| *Samantha Wang*  |Due to the amount of hardware involved, I think the Spiral method would be best suited for this case. It would iterate multiple times, catching faults or disconnects that would likely be common when working with mixed media, prior to completing a full-scale release.|
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
@@ -162,7 +162,7 @@
 
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
-| *Samantha Wang*  |                 |
+| *Samantha Wang*  |Since the requirements rapidly evolve and quick delivery is necessary, Agile Scrum would work best for this. Since the team is small, it wouldn't get overwhelming in terms of communication, and it would allow for the early testing needed.|
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
@@ -192,7 +192,7 @@
 
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
-| *Samantha Wang*  |                 |
+| *Samantha Wang*  |Agile would be best for this scenario due to the limited team size. It would have the ability to complete the quick releases needed for funding.|
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
