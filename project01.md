@@ -17,7 +17,7 @@
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
-| *Madina Adam*    |                 |
+| *Madina Adam*    | Agile fits because the site needs frequent updates, new features, and flexibility to adapt to customer feedback while coordinating with another development team.|
 
 ### Group Selection
 
