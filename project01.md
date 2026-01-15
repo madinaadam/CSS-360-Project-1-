@@ -40,7 +40,7 @@
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
 | *Samantha Wang*  | For the dental office site, I would choose an incremental SDLC model. The website initially only needs a basic deliverable with essential information. Since additional features will be added over time, incremental development allows the site to be expanded gradually after the initial setup is complete.|
-| *Madina Adam*    |                 |
+| *Madina Adam*    | Incremental. Incremental works well since the site can be built and delivered in small parts, starting with basic content and expanding over time as new features are added.|
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
