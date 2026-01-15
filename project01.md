@@ -106,7 +106,7 @@
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
-| *Madina Adam*    |                 |
+| *Madina Adam*    | Waterfall is suitable because the project has fixed, detailed requirements and a clear timeline, making a structured, sequential approach effective.|
 
 ### Group Selection
 
@@ -138,7 +138,7 @@
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
-| *Madina Adam*    |                 |
+| *Madina Adam*    | Incremental development allows hardware and software components to be built, integrated, and tested step by step for reliability and performance.|
 
 ### Group Selection
 
@@ -170,7 +170,7 @@
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
-| *Madina Adam*    |                 |
+| *Madina Adam*    | Agile is ideal because requirements will change based on user feedback, requiring quick iterations and frequent testing.|
 
 ### Group Selection
 
@@ -201,7 +201,7 @@
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
-| *Madina Adam*    |                 |
+| *Madina Adam*    | Agile supports a small startup team by enabling rapid releases, evolving requirements, and early demonstrations of impact.|
 
 ### Group Selection
 
