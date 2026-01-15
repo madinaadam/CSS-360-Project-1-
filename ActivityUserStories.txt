@@ -1,19 +1,14 @@
-Activity: User stories
-
-Consider again the product you were given earlier today (incremental delivery activity).
-Pick 1 or 2 of your features from Phase 1, i.e. the most critical features.
-In your group, come up with 4+ user tasks for the feature(s).
-Write a user story for each user task. Submit your stories to the team’s
-GitHub repository.
-
 Turning a Page:
-The user hovers mouse/finger over upper-right corner
-Page icon dog-ears
-User clicks this new icon
-Page flips
+Sami is a student who has an Ebook and wants to turn to the next page.
+She hovers mouse/finger over upper-right corner
+Page icon (dog-ears or cover folds in on itself; indicating the option of turning the page.)
+She clicks the upper-right corner fold to confirm wanting to shift to the next page.
+The book flips to the next page.
 
 Book Selection:
-User goes to search-bar
-Auto generate recommendation based-off letters as user inputs
-User confirms selection
-Desired book appears on cover page
+Emily is a student who wants to read a specific Ebook.
+She hovers her mouse/finger over the search-bar on the top of the page.
+She clicks on the search bar to confirm.
+She starts to type out her search and auto generated recommendations show based-off letters of user inputs
+She either clicks and confirms the book selection or enters her search.
+The desired book appears (full screen) on the cover page.
