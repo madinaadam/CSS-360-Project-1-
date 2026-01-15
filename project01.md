@@ -75,7 +75,7 @@
 | *Prince Ovbiebo* |                 |
 | *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
-| *Madina Adam*    |                 |
+| *Madina Adam*    | Spiral is appropriate due to the high-risk and safety-critical nature of the system, emphasizing continuous risk analysis, testing, and validation.|
 
 ### Group Selection
 
