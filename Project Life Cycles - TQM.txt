@@ -1,0 +1,22 @@
+#Tristan Mejia
+
+1. E-Commerce Site: Integrate & Configure
+Since PerfectApparel already has an extensive library of tools, which I am expected to use, it makes sense to choose this life cycle. I can analyze the requirements and specify the software modules to be developed, and then hand that off to the team that codes the interpreter. This method will also allow all the features, many of which are com to come together at the same time, so PerfectApparel will get their site fully complete.
+
+2. Dental Office Site: Incremental Development
+This dental office site includes several features, some of which are critical to the site's function, while others are less important. Using incremental development, I can focus on important features first and add the extras later. This also gives my friend the opportunity to ask for more features down the line.
+
+3. Nuclear Power Plant: Waterfall Development
+Because the software for a nuclear power plant is _safety critical,_ it makes sense to hash out exactly what it must do before developing any of it, to minimize the possibility of bugs or security holes slipping in as the project pivots. Because I have access to outside technical help (and the behavior of nuclear reactors is already understood and doesn't change,) defining this software's requirements beforehand should be feasible, and since it will run in place for decades, the extra flexibility of other techniques is not necessary. Plus, having a complete specification makes it much simpler and less risky to subcontract out some software work.
+
+4. Department of Transportation: Waterfall Development
+I chose waterfall development mostly because the spec for the software is already done for us, so no need to waste time going through the project piece by piece. Plus, since the structure of this life cycle is so regimented, it's much easier to ensure that the deadlines can be met (and to set them in the first place.)
+
+5. Reducing Traffic: Waterfall Development
+I chose waterfall development again because this system is mostly embedded, meaning not much chance of requirements changing, doesn't involve a lot of standalone features that can be developed after-the-fact, and is, if not safety critical, at least critical to the function of the traffic systems it controls. Additionally, this kind of work is likely the one my team will do best with, given their qualifications.
+
+6. Educational Game: Integrate and Configure
+Plenty of software solutions already exist to make developing games simpler. For a large number of (probably technically simple) projects with ever-changing requirements, which must be delivered ASAP, saving time (and money) wherever possible is important. Integrate and configure is cheap, fast, hard to do wrong, and by far the easiest to correct on-the-fly.
+
+7. Global Health: Incremental Development
+This software benefits from being able to function while still in-progress, since if the software can be deployed, at least in part, early, it can benefit the communities it is supposed to and hopefully earn more grants. Plus, it gives me opportunities to rework the software to function better if necessary to meet that goal. With a core team that I have a personal relationship with, formal coordination isn't as important, so a regimented structure is not as beneficial.
