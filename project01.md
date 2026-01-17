@@ -14,16 +14,20 @@
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
 | *Samantha Wang*  | An Agile SDLC is best because customer-facing features like customization and recommendations will evolve through feedback and experimentation; thus, needing the ability to iterate incremental changes.|
-| *Prince Ovbiebo* |                 |
-| *Tristan Mejia*  |                 |
-| *Emily Nguyen*   |                 |
 | *Madina Adam*    | Agile fits because the site needs frequent updates, new features, and flexibility to adapt to customer feedback while coordinating with another development team.|
+| *Tristan Mejia*  | Since PerfectApparel already has an extensive library of tools, which I am expected to use, it makes sense to choose this life cycle. I can analyze the requirements and specify the software modules to be developed, and then hand that off to the team that codes the interpreter. This method will also allow all the features, many of which are com to come together at the same time, so PerfectApparel will get their site fully complete.|
+| *Prince Ovbiebo* |                 |
+| *Emily Nguyen*   |                 |
+
 
 ### Group Selection
 
 **SDLC:** XXXX
+
 **Justification:** XX why was it a good fit? XX
+
 **Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+
 **Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
 
 ---
@@ -41,8 +45,8 @@
 |------------------|-----------------|
 | *Samantha Wang*  | For the dental office site, I would choose an incremental SDLC model. The website initially only needs a basic deliverable with essential information. Since additional features will be added over time, incremental development allows the site to be expanded gradually after the initial setup is complete.|
 | *Madina Adam*    | Incremental. Incremental works well since the site can be built and delivered in small parts, starting with basic content and expanding over time as new features are added.|
+| *Tristan Mejia*  |This dental office site includes several features, some of which are critical to the site's function, while others are less important. Using incremental development, I can focus on important features first and add the extras later. This also gives my friend the opportunity to ask for more features down the line.|
 | *Prince Ovbiebo* |                 |
-| *Tristan Mejia*  |                 |
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
@@ -72,10 +76,11 @@
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
 | *Samantha Wang*  | For something so safety-critical, use of the V-Model would be best suited. It would ensure verification at every step and reduce room for error.|
-| *Prince Ovbiebo* |                 |
-| *Tristan Mejia*  |                 |
-| *Emily Nguyen*   |                 |
 | *Madina Adam*    | Spiral is appropriate due to the high-risk and safety-critical nature of the system, emphasizing continuous risk analysis, testing, and validation.|
+| *Tristan Mejia*  | Because the software for a nuclear power plant is _safety critical,_ it makes sense to hash out exactly what it must do before developing any of it, to minimize the possibility of bugs or security holes slipping in as the project pivots. Because I have access to outside technical help (and the behavior of nuclear reactors is already understood and doesn't change,) defining this software's requirements beforehand should be feasible, and since it will run in place for decades, the extra flexibility of other techniques is not necessary. Plus, having a complete specification makes it much simpler and less risky to subcontract out some software work.|
+| *Prince Ovbiebo* |                 |
+| *Emily Nguyen*   |                 |
+
 
 ### Group Selection
 
@@ -103,10 +108,11 @@
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
 | *Samantha Wang*  |Since all of the specifications are detailed and clearly established, a Waterfall method would be best used for this context. The team’s proven experience and set schedule align well with a structured approach.|
-| *Prince Ovbiebo* |                 |
-| *Tristan Mejia*  |                 |
-| *Emily Nguyen*   |                 |
 | *Madina Adam*    | Waterfall is suitable because the project has fixed, detailed requirements and a clear timeline, making a structured, sequential approach effective.|
+| *Tristan Mejia*  |I chose waterfall development mostly because the spec for the software is already done for us, so no need to waste time going through the project piece by piece. Plus, since the structure of this life cycle is so regimented, it's much easier to ensure that the deadlines can be met (and to set them in the first place.)|
+| *Prince Ovbiebo* |                 |
+| *Emily Nguyen*   |                 |
+
 
 ### Group Selection
 
@@ -135,10 +141,11 @@
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
 | *Samantha Wang*  |Due to the amount of hardware involved, I think the Spiral method would be best suited for this case. It would iterate multiple times, catching faults or disconnects that would likely be common when working with mixed media, prior to completing a full-scale release.|
-| *Prince Ovbiebo* |                 |
-| *Tristan Mejia*  |                 |
-| *Emily Nguyen*   |                 |
 | *Madina Adam*    | Incremental development allows hardware and software components to be built, integrated, and tested step by step for reliability and performance.|
+| *Tristan Mejia*  |I chose waterfall development again because this system is mostly embedded, meaning not much chance of requirements changing, doesn't involve a lot of standalone features that can be developed after-the-fact, and is, if not safety critical, at least critical to the function of the traffic systems it controls. Additionally, this kind of work is likely the one my team will do best with, given their qualifications.|
+| *Prince Ovbiebo* |                 |
+| *Emily Nguyen*   |                 |
+
 
 ### Group Selection
 
@@ -156,21 +163,22 @@
 
 ## 6: Educational game
 
-### Individual Selections
-
 > Your team is developing educational games with changing requirements and fast delivery needs.
 >- Small team of 7 experienced game developers
 >- Requirements evolve quickly
 >- Customers need early versions for testing
 >- Close communication with educators and stakeholders
 
+### Individual Selections
+
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
 | *Samantha Wang*  |Since the requirements rapidly evolve and quick delivery is necessary, Agile Scrum would work best for this. Since the team is small, it wouldn't get overwhelming in terms of communication, and it would allow for the early testing needed.|
-| *Prince Ovbiebo* |                 |
-| *Tristan Mejia*  |                 |
-| *Emily Nguyen*   |                 |
 | *Madina Adam*    | Agile is ideal because requirements will change based on user feedback, requiring quick iterations and frequent testing.|
+| *Tristan Mejia*  |Plenty of software solutions already exist to make developing games simpler. For a large number of (probably technically simple) projects with ever-changing requirements, which must be delivered ASAP, saving time (and money) wherever possible is important. Integrate and configure is cheap, fast, hard to do wrong, and by far the easiest to correct on-the-fly.|
+| *Prince Ovbiebo* |                 |
+| *Emily Nguyen*   |                 |
+
 
 ### Group Selection
 
@@ -198,10 +206,11 @@
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
 | *Samantha Wang*  |Agile would be best for this scenario due to the limited team size. It would have the ability to complete the quick releases needed for funding.|
-| *Prince Ovbiebo* |                 |
-| *Tristan Mejia*  |                 |
-| *Emily Nguyen*   |                 |
 | *Madina Adam*    | Agile supports a small startup team by enabling rapid releases, evolving requirements, and early demonstrations of impact.|
+| *Tristan Mejia*  |This software benefits from being able to function while still in-progress, since if the software can be deployed, at least in part, early, it can benefit the communities it is supposed to and hopefully earn more grants. Plus, it gives me opportunities to rework the software to function better if necessary to meet that goal. With a core team that I have a personal relationship with, formal coordination isn't as important, so a regimented structure is not as beneficial.|
+| *Prince Ovbiebo* |                 |
+| *Emily Nguyen*   |                 |
+
 
 ### Group Selection
 
