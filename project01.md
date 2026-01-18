@@ -210,12 +210,12 @@
 
 ### Group Selection
 
-**SDLC:** XXXX
+**SDLC:** Agile
 
-**Justification:** XX why was it a good fit? XX
+**Justification:** Agile makes the most sense here because the team is small and the goals are still evolving. It supports quick releases, which are important for showing impact early and helping secure funding. Agile also allows the project to adapt as new needs come up, which is likely in a global health context.
 
-**Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+**Considerations:** We also considered the Incremental model since it allows the software to be usable while it is still being developed. That approach would help deliver value to communities early and allow room for improvement over time. However, Agile felt like a better fit because it offers more flexibility and supports changing requirements more naturally.
 
-**Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
+**Key Aspects:** The key aspects we considered before picking Agile for this project were rapid iteration, early releases, and adaptability. These Agile features make it easier to respond to feedback, improve the software continuously, and align progress with funding and impact goals.
 
 
