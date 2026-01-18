@@ -84,15 +84,13 @@
 
 ### Group Selection
 
-**SDLC:** XXXX
+**SDLC:** V-Model
 
-**Justification:** XX why was it a good fit? XX
+**Justification:** The V-Model is a good fit because this is a safety-critical system where failures could have serious consequences. It emphasizes testing and verification at every stage, which helps reduce risk and catch issues early. Since the system is expected to run for many years, having strong validation and documentation is important.
 
-**Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+**Considerations:** We also considered Waterfall and Spiral. Waterfall works well for clearly defined requirements and subcontracting, but it lacks continuous validation. Spiral focuses heavily on risk analysis, but its flexibility adds complexity. The V-Model combines structure with continuous testing, making it the safest choice.
 
-**Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
-
-
+**Key Aspects:** The main factors we considered were safety and reliability. Safety was critical due to the high-risk nature of nuclear systems, and reliability was important because the software must operate correctly over a long lifespan.
 
 ---
 
@@ -107,7 +105,7 @@
 
 |**Name**          | **SDLC Choice** |
 |------------------|-----------------|
-| *Samantha Wang*  |Since all of the specifications are detailed and clearly established, a Waterfall method would be best used for this context. The team’s proven experience and set schedule align well with a structured approach.|
+| *Samantha Wang*  |Since all of the specifications are detailed and clearly established, a Waterfall model would be best used for this context. The team’s proven experience and set schedule align well with a structured approach.|
 | *Madina Adam*    | Waterfall is suitable because the project has fixed, detailed requirements and a clear timeline, making a structured, sequential approach effective.|
 | *Tristan Mejia*  | Waterfall Development. I chose waterfall development mostly because the spec for the software is already done for us, so no need to waste time going through the project piece by piece. Plus, since the structure of this life cycle is so regimented, it's much easier to ensure that the deadlines can be met (and to set them in the first place.)|
 | *Prince Ovbiebo* | I would choose the Waterfall model for the Department of Transportation project. The system requirements are already clearly defined in a detailed 100-page specification, and the company has prior experience building similar systems.|
@@ -116,15 +114,13 @@
 
 ### Group Selection
 
-**SDLC:** XXXX
+**SDLC:** Waterfall Model
 
-**Justification:** XX why was it a good fit? XX
+**Justification:** Waterfall is a good fit because the project has very detailed and fixed requirements provided by the Department of Transportation. The team has strong experience with similar systems, and the 18-month deadline benefits from a clear, structured development plan with well-defined phases.
 
-**Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+**Considerations:** We also considered Iterative and Agile models because the system is distributed and cloud-based. However, since the specifications are already fully defined and unlikely to change, the flexibility of those models is not necessary. Waterfall allows the team to focus on execution rather than revisiting requirements.
 
-**Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
-
-
+**Key Aspects:** The main factors we considered were clear requirements and schedule constraints. Clear requirements make a sequential process effective, and the strict deadline favors a model that is easy to plan and manage.
 
 ---
 
