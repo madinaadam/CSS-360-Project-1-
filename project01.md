@@ -145,13 +145,13 @@
 
 ### Group Selection
 
-**SDLC:** XXXX
+**SDLC:** Incremental Model
 
-**Justification:** XX why was it a good fit? XX
+**Justification:** The Incremental model is a good fit because this system is large, complex, and includes many parts such as GPS devices, sensors, cameras, and real-time displays. Building and testing the system in stages allows the team to make sure each component works correctly and reliably before combining everything into the full system.
 
-**Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+**Considerations:** We also thought about using the Spiral model because it focuses on finding risks and testing often. However, Incremental seemed better since it allows the team to slowly build and combine the hardware and software without making the process too complex.
 
-**Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
+**Key Aspects:** The key aspects we looked at when making our final SDLC decision were system complexity and reliability. Complexity matters because many different technologies must work together, and reliability is critical because the system provides real-time traffic information that affects public safety.
 
 
 
