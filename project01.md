@@ -178,13 +178,13 @@
 
 ### Group Selection
 
-**SDLC:** XXXX
+**SDLC:** Agile
 
-**Justification:** XX why was it a good fit? XX
+**Justification:** Agile is the best fit because the project needs fast delivery and the requirements are expected to change often. For an educational game, feedback from teachers and students will directly shape development, and Agile supports quick iterations, rapid prototyping, and frequent testing to keep up with that feedback.
 
-**Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+**Considerations:** We also considered the integrate and configure approach since many existing tools can speed up game development and reduce cost. This model is efficient and easy to adjust, especially for technically simple projects with tight timelines. However, Agile was chosen because it better supports continuous feedback and structured iteration throughout development.
 
-**Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
+**Key Aspects:** The most important aspects of Agile for this project are frequent testing, fast releases, and adaptability. These allow the team to respond quickly to user feedback, improve the games over time, and deliver playable versions early for evaluation.
 
 
 ---
