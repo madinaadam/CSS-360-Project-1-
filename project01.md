@@ -16,7 +16,7 @@
 | *Samantha Wang*  | An Agile SDLC is best because customer-facing features like customization and recommendations will evolve through feedback and experimentation; thus, needing the ability to iterate incremental changes.|
 | *Madina Adam*    | Agile fits because the site needs frequent updates, new features, and flexibility to adapt to customer feedback while coordinating with another development team.|
 | *Tristan Mejia*  | Since PerfectApparel already has an extensive library of tools, which I am expected to use, it makes sense to choose this life cycle. I can analyze the requirements and specify the software modules to be developed, and then hand that off to the team that codes the interpreter. This method will also allow all the features, many of which are com to come together at the same time, so PerfectApparel will get their site fully complete.|
-| *Prince Ovbiebo* | For the new PerfectApparel e-Commerce site, I would choose the Agile SDLC model. The project involves adding new features like customization tools and outfit matching, which are likely to change as the business learns what customers want.|
+| *Prince Ovbiebo* | For the new PerfectApparel e-Commerce site, I would choose the Agile SDLC model. The project involves adding new features like customization tools and outfit matching, which are likely to change as the business learns what customers want. This allows the team to deliver core shopping functionality early while continuing to add and refine features over time, which works well with the existing template and scripting system.|
 | *Emily Nguyen*   |                 |
 
 
@@ -46,7 +46,7 @@
 | *Samantha Wang*  | For the dental office site, I would choose an incremental SDLC model. The website initially only needs a basic deliverable with essential information. Since additional features will be added over time, incremental development allows the site to be expanded gradually after the initial setup is complete.|
 | *Madina Adam*    | Incremental. Incremental works well since the site can be built and delivered in small parts, starting with basic content and expanding over time as new features are added.|
 | *Tristan Mejia*  |This dental office site includes several features, some of which are critical to the site's function, while others are less important. Using incremental development, I can focus on important features first and add the extras later. This also gives my friend the opportunity to ask for more features down the line.|
-| *Prince Ovbiebo* | I would use the Incremental model here because the dentist is flexible with deadlines and wants to keep adding new features in the future, such as online appointments and automated reminders.|
+| *Prince Ovbiebo* | I would use the Incremental model here because the dentist is flexible with deadlines and wants to keep adding new features in the future, such as online appointments and automated reminders. It supports the kind of gradual growth needed and allows the site to improve over time without needing all requirements finalized upfront.|
 | *Emily Nguyen*   |                 |
 
 ### Group Selection
