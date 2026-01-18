@@ -155,8 +155,6 @@
 
 
 
----
-
 ## 6: Educational game
 
 > Your team is developing educational games with changing requirements and fast delivery needs.
