@@ -1,9 +1,11 @@
 #Tristan Mejia
 
 1. E-Commerce Site: Integrate & Configure
+![Integrate & Configure Flowchart](https://d2vlcm61l7u1fs.cloudfront.net/media%2Fb9e%2Fb9e8f46c-6340-44d5-be40-17f1e86b8927%2FphpkLHrHH.png)
 Since PerfectApparel already has an extensive library of tools, which I am expected to use, it makes sense to choose this life cycle. That is the primary reason why I chose this life cycle, as it basically defines the development path for the entire project. The second main reason I chose this life cycle is that I can analyze the requirements and specify the software modules to be developed, and then hand that off to the team that codes the interpreter. Knowing what I will need to develop and what I will hand off to the outside team is also extremely important so I don't get bogged down. This method will also allow all the features to come together at the same time, so PerfectApparel will get their site fully complete. Incremental development is also an option, but using it would involve far more developing from scratch, which is both unnecessary since the tools already exist and I'm _supposed_ to use them, and not viable since the features they implement are complex and expensive to develop from scratch.
 
 2. Dental Office Site: Incremental Development
+![Incremental Development Flowchart](https://i.sstatic.net/BqktJ.jpg)
 This dental office site includes several features, some of which are critical to the site's function, while others are less important. Using incremental development, I can focus on important features first and add the extras later. This is the main reason I chose incremental development - to take advantage of this aspect of the project when developing a roadmap for it. Of course, knowing the roadmap for a project before starting is critical to its success. This also gives my friend the opportunity to ask for more features down the line. I also considered waterfall development as an option, but that method would be wildly inefficient for this project and make it all but impossible to add new features down the line.
 
 3. Nuclear Power Plant: Waterfall Development
@@ -15,8 +17,9 @@ I chose waterfall development mostly because the spec for the software is alread
 5. Reducing Traffic: Waterfall Development
 I chose waterfall development again because this system is mostly embedded, meaning not much chance of requirements changing, doesn't involve a lot of standalone features that can be developed after-the-fact, and is, if not safety critical, at least critical to the function of the traffic systems it controls. Additionally, this kind of work is likely the one my team will do best with, given their qualifications.
 
-6. Educational Game: Integrate and Configure
+6. Educational Game: Integrate & Configure
 Plenty of software solutions already exist to make developing games simpler. For a large number of (probably technically simple) projects with ever-changing requirements, which must be delivered ASAP, saving time (and money) wherever possible is important. Integrate and configure is cheap, fast, hard to do wrong, and by far the easiest to correct on-the-fly.
 
 7. Global Health: Incremental Development
 This software benefits from being able to function while still in-progress, since if the software can be deployed, at least in part, early, it can benefit the communities it is supposed to and hopefully earn more grants. Plus, it gives me opportunities to rework the software to function better if necessary to meet that goal. With a core team that I have a personal relationship with, formal coordination isn't as important, so a regimented structure is not as beneficial.
+
