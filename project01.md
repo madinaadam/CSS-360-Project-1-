@@ -17,7 +17,7 @@
 | *Madina Adam*    | Agile fits because the site needs frequent updates, new features, and flexibility to adapt to customer feedback while coordinating with another development team.|
 | *Tristan Mejia*  | Integrate & Configure. Since PerfectApparel already has an extensive library of tools, which I am expected to use, it makes sense to choose this life cycle. I can analyze the requirements and specify the software modules to be developed, and then hand that off to the team that codes the interpreter. This method will also allow all the features, many of which are com to come together at the same time, so PerfectApparel will get their site fully complete.|
 | *Prince Ovbiebo* | For the new PerfectApparel e-Commerce site, I would choose the Agile SDLC model. The project involves adding new features like customization tools and outfit matching, which are likely to change as the business learns what customers want. This allows the team to deliver core shopping functionality early while continuing to add and refine features over time, which works well with the existing template and scripting system.|
-| *Emily Nguyen*   |                 |
+| *Emily Nguyen*   | The requirements will likely change as new features like customization and matching outfits are tested with users. An incremental or agile model allows the team to release core features first and then add improvements over time while working with the separate interpreter team.|
 
 
 ### Group Selection
@@ -47,7 +47,7 @@
 | *Madina Adam*    | Incremental. Incremental works well since the site can be built and delivered in small parts, starting with basic content and expanding over time as new features are added.|
 | *Tristan Mejia*  | Incremental Development. This dental office site includes several features, some of which are critical to the site's function, while others are less important. Using incremental development, I can focus on important features first and add the extras later. This also gives my friend the opportunity to ask for more features down the line.|
 | *Prince Ovbiebo* | I would use the Incremental model here because the dentist is flexible with deadlines and wants to keep adding new features in the future, such as online appointments and automated reminders. It supports the kind of gradual growth needed and allows the site to improve over time without needing all requirements finalized upfront.|
-| *Emily Nguyen*   |                 |
+| *Emily Nguyen*   | The website would be incremental. It can be built step by step, starting with basic pages like hours, location, and staff. New features such as online appointments and text reminders can be added later as the clinic grows. |
 
 ### Group Selection
 
@@ -79,7 +79,7 @@
 | *Madina Adam*    | Spiral is appropriate due to the high-risk and safety-critical nature of the system, emphasizing continuous risk analysis, testing, and validation.|
 | *Tristan Mejia*  | Waterfall Development. Because the software for a nuclear power plant is _safety critical,_ it makes sense to hash out exactly what it must do before developing any of it, to minimize the possibility of bugs or security holes slipping in as the project pivots. Because I have access to outside technical help (and the behavior of nuclear reactors is already understood and doesn't change,) defining this software's requirements beforehand should be feasible, and since it will run in place for decades, the extra flexibility of other techniques is not necessary. Plus, having a complete specification makes it much simpler and less risky to subcontract out some software work.|
 | *Prince Ovbiebo* | I think the Waterfall model is the most appropriate choice. This is a safety-critical system where failures could have serious consequences, so having well-defined requirements and a structured development process is essential. I initially thought Incremental would be good but too much flexibility might actually be more dangerous.|
-| *Emily Nguyen*   |                 |
+| *Emily Nguyen*   | This system must be very safe and reliable. The Spiral model allows the team to check for risks and test carefully at each stage of development.|
 
 
 ### Group Selection
@@ -109,7 +109,7 @@
 | *Madina Adam*    | Waterfall is suitable because the project has fixed, detailed requirements and a clear timeline, making a structured, sequential approach effective.|
 | *Tristan Mejia*  | Waterfall Development. I chose waterfall development mostly because the spec for the software is already done for us, so no need to waste time going through the project piece by piece. Plus, since the structure of this life cycle is so regimented, it's much easier to ensure that the deadlines can be met (and to set them in the first place.)|
 | *Prince Ovbiebo* | I would choose the Waterfall model for the Department of Transportation project. The system requirements are already clearly defined in a detailed 100-page specification, and the company has prior experience building similar systems.|
-| *Emily Nguyen*   |                 |
+| *Emily Nguyen*   |The project has very detailed and stable requirements in a 100-page specification. Since the scope is clear and the team has experience, a structured Waterfall approach fits well.|
 
 
 ### Group Selection
@@ -140,7 +140,7 @@
 | *Madina Adam*    | Incremental development allows hardware and software components to be built, integrated, and tested step by step for reliability and performance.|
 | *Tristan Mejia*  | Waterfall Development. I chose waterfall development again because this system is mostly embedded, meaning not much chance of requirements changing, doesn't involve a lot of standalone features that can be developed after-the-fact, and is, if not safety critical, at least critical to the function of the traffic systems it controls. Additionally, this kind of work is likely the one my team will do best with, given their qualifications.|
 | *Prince Ovbiebo* | For the traffic reduction system, I would use the Incremental development model. This project involves integrating multiple technologies, including GPS devices, sensors, cameras, and real-time displays, which introduces technical risk.|
-| *Emily Nguyen*   |                 |
+| *Emily Nguyen*   |The system combines hardware, networking, and software, so building and testing in stages reduces integration risk. Each increment can be validated before moving on to the next component.|
 
 
 ### Group Selection
@@ -173,7 +173,7 @@
 | *Madina Adam*    | Agile is ideal because requirements will change based on user feedback, requiring quick iterations and frequent testing.|
 | *Tristan Mejia*  | Integrate and Configure. Plenty of software solutions already exist to make developing games simpler. For a large number of (probably technically simple) projects with ever-changing requirements, which must be delivered ASAP, saving time (and money) wherever possible is important. Integrate and configure is cheap, fast, hard to do wrong, and by far the easiest to correct on-the-fly.|
 | *Prince Ovbiebo* | The Agile model is a good fit for the educational game project. The requirements are expected to change as teachers and students provide feedback, and the games need to be delivered quickly for testing. Agile supports rapid releases and ongoing improvements, which is ideal for game development.|
-| *Emily Nguyen*   |                 |
+| *Emily Nguyen* | Game requirements will change based on teacher and student feedback. Agile allows rapid prototyping, frequent testing, and fast releases.|
 
 
 ### Group Selection
@@ -205,7 +205,7 @@
 | *Madina Adam*    | Agile supports a small startup team by enabling rapid releases, evolving requirements, and early demonstrations of impact.|
 | *Tristan Mejia*  | Incremental Development. This software benefits from being able to function while still in-progress, since if the software can be deployed, at least in part, early, it can benefit the communities it is supposed to and hopefully earn more grants. Plus, it gives me opportunities to rework the software to function better if necessary to meet that goal. With a core team that I have a personal relationship with, formal coordination isn't as important, so a regimented structure is not as beneficial.|
 | *Prince Ovbiebo* | For the global health software project, I would also choose the Agile model. The startup has a small team and evolving goals, especially since future funding depends on demonstrating impact.|
-| *Emily Nguyen*   |                 |
+| *Emily Nguyen*  |The team is small and still growing, and funding depends on showing impact quickly. An Agile approach allows fast development, experimentation, and adjustment based on real-world results.|
 
 
 ### Group Selection
