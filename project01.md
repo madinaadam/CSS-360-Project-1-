@@ -176,7 +176,7 @@
 
 ### Group Selection
 
-**SDLC:** Agile
+**SDLC:** Agile Model
 
 **Justification:** Agile is the best fit because the project needs fast delivery and the requirements are expected to change often. For an educational game, feedback from teachers and students will directly shape development, and Agile supports quick iterations, rapid prototyping, and frequent testing to keep up with that feedback.
 
@@ -208,7 +208,7 @@
 
 ### Group Selection
 
-**SDLC:** Agile
+**SDLC:** Agile Model
 
 **Justification:** Agile makes the most sense here because the team is small and the goals are still evolving. It supports quick releases, which are important for showing impact early and helping secure funding. Agile also allows the project to adapt as new needs come up, which is likely in a global health context.
 
