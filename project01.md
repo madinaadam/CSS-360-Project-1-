@@ -22,13 +22,13 @@
 
 ### Group Selection
 
-**SDLC:** XXXX
+**SDLC:** Agile Model
 
-**Justification:** XX why was it a good fit? XX
+**Justification:** Agile is a good fit because the e-Commerce site includes customer-facing features like customization, outfit matching, and recommendations that are likely to evolve based on user feedback. The project also involves reusing existing templates and coordinating with a separate team developing the Java interpreter, so Agile’s flexibility and iterative development help the team adapt to changes while delivering functional features early.
 
-**Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+**Considerations:** We also considered the Incremental and Integrate & Configure models because the project builds on existing tools and could be delivered in parts. However, those models assume more stable requirements, while this project benefits from ongoing testing and refinement. Agile was the better choice because it supports both incremental delivery and continuous feedback.
 
-**Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
+**Key Aspects:** The main factors we considered were changing requirements and team coordination. Changing requirements make an iterative approach necessary, and coordination with another development team requires a flexible model that supports frequent communication and adjustments.
 
 ---
 
