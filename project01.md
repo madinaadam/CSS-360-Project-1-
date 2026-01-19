@@ -153,7 +153,7 @@
 
 **Key Aspects:** The key aspects we looked at when making our final SDLC decision were system complexity and reliability. Complexity matters because many different technologies must work together, and reliability is critical because the system provides real-time traffic information that affects public safety.
 
-
+---
 
 ## 6: Educational game
 
