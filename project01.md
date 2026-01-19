@@ -51,13 +51,13 @@
 
 ### Group Selection
 
-**SDLC:** XXXX
+**SDLC:** Incremental Model
 
-**Justification:** XX why was it a good fit? XX
+**Justification:** This was a unanimous decision. The Incremental model provides fast initial output by delivering a basic but functional website early. As the dental clinic grows, additional features and continuous content updates can be added in later increments. This approach supports flexibility, ongoing improvement, and client feedback without requiring all requirements to be finalized upfront.
 
-**Considerations:** XX We also considered the XXXXXX model for this situation because XXXX ;however,  XXXX seemed like be best choice due to XXXXX
+**Considerations:** We also considered the Waterfall odel due to its simplicity and clear structure. However, Waterfall assumes stable and fully defined requirements from the beginning, which does not align well with this project’s evolving feature set. Since the dentist anticipates ongoing updates and future functionality, the Incremental model is a better fit, allowing gradual expansion while minimizing rework and supporting long-term adaptability.
 
-**Key Aspects:** The key aspects we looked at in order to make our final SDLC descion were XXXXX and XXXX. XXX because XXXX, and XXXX due to XXXXX.
+**Key Aspects:** The key aspects we looked at were flexibility and how few features are needed right now. The project doesn’t have a strict timeline, and our friend only wants a basic website to start with. Since more features will likely be added later, we wanted an SDLC that makes it easy to build on the site over time.
 
 
 ---
